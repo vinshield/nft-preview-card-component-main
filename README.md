@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [See code on github](https://github.com/vinshield/nft-preview-card-component-main)
+- Live Site URL: [Visit live site](https://vinshield.github.io/nft-preview-card-component-main/)
 
 ## My process
 
